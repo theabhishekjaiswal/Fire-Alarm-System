@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076397603270",
+    "project_id": "fire-alarm-system-a8a2e",
+    "storage_bucket": "fire-alarm-system-a8a2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076397603270:android:2765edf96ad0df56bedac7",
+        "android_client_info": {
+          "package_name": "com.example.firealarmsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzpL74YEKFP-xSHCyXMZE9YgeO7UW7Gnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
