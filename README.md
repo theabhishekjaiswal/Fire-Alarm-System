@@ -93,4 +93,6 @@ The Fire Alarm System project successfully meets its objective of detecting fire
 To view the demonstration of the Fire Alarm System in action, please follow the link below or scan the QR code.
 - **Watch the Video Here**: [Demonstration Video](https://www.youtube.com/watch?v=S4Cb5PRZVgY&ab_channel=TheAbhishekJaiswal)
 - **Scan the QR Code to Watch**:
-<img src="https://drive.google.com/uc?export=view&id=1bq6_VOMqPwxCssiP7Nr5P0MzvdlaKYBu" alt="QR Code" width="200" height="200">
+<div align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1bq6_VOMqPwxCssiP7Nr5P0MzvdlaKYBu" alt="QR Code" width="200" height="200">
+</div>
