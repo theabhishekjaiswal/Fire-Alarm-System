@@ -39,7 +39,7 @@ This project aims to develop a Fire Alarm System that detects the presence of fi
 
 ## Circuit Diagram
 - The flame sensor connects to digital pin D13 for reading the sensor output and to the 5V and GND pins for power.
-- The Wi-Fi module (ESP-WROOM-32) is connected to the 3.3V pin for power and the RX/TX pins for serial communication with the Arduino.
+- The Wi-Fi module (ESPWROOM-32) is connected to the 3.3V pin for power and the RX/TX pins for serial communication with the Arduino.
 - The RGB LED connections are defined in the code but typically connect to different digital pins for controlling the LED colors.
 
 ## Mobile Application Development
