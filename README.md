@@ -53,6 +53,8 @@ The system is tested under different scenarios to verify that the flame sensor c
 - **Real-Time Notifications**: Notifications are successfully sent to the mobile app through Firebase, providing timely alerts.
 - **System Reliability**: The integrated system demonstrates consistent performance and reliable fire detection.
 
+## Mobile Screenshorts
+- 
 
 ## Usage
 1. Power on the system.
